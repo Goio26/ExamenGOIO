@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="bienvenida">Bienvenidos a la aplicación de Goio</string>
+    <string name="salir">SALIR</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="maquina">Comprobar que no eres una máquina:</string>
+    <string name="at">ATENCIÓN!</string>
+    <string name="comp">COMPROBAR</string>
+    <string name="perf"> PERFECTO !</string>
+    <string name="noM">No eres una maquina</string>
+    <string name="opc">Elige una de las opciones en el desplegable</string>
+    <string name="title_activity_actividad__museo">Actividad_Museo</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="arte">ARTE</string>
+    <string name="ciencia">CIENCIA</string>
+    <string name="otros">OTROS</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="alta">ALTA</string>
+    <string name="introducir">DATOS A DAR DE ALTA</string>
+    <string name="introducir2">Verificacion De Datos</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellidos</string>
+</resources>
